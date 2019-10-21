@@ -1,0 +1,164 @@
+/* GLOBAL */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+section {
+    padding: 70px 0;
+}
+
+.title {
+    font-size: 34px;
+    margin: 0;
+}
+
+.subtitle {
+    font-size: 16px;
+    margin: 0 0 70px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title-item {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.description-item {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+
+/* HERO */
+
+.hero {
+    background-image: url("https://i.postimg.cc/66fwhsVJ/apple-black-and-white-black-and-white-169573.jpg");
+    height: 100vh;
+    width: auto;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+}
+
+.hero-inner {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(0, 0, 0, 0.4);
+}
+
+.hero-subtitle {
+    color: #fff;
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+.hero-title {
+    color: #fff;
+    font-size: 54px;
+    margin: 20px 0 40px 0;
+}
+
+.btn {
+    text-decoration: none;
+    color: #fff;
+    padding: 13px 25px;
+    border: solid 1px;
+    border-radius: 6px;
+    background-color: gold;
+    border-color: gold;
+}
+
+.btn:hover {
+    border-color: goldenrod;
+    background-color: goldenrod;
+}
+
+
+/* SERVICES */
+
+.services {
+    text-align: center;
+}
+
+.services-icon {
+    font-size: 40px;
+    color: gold;
+    border: solid 3px gold;
+    padding: 14px;
+    border-radius: 50%;
+}
+
+.title-item {
+    font-size: 20px;
+}
+
+.descritpion-item {
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+/* OUR PORTFOLIO */
+
+.our-portfolio {
+    background-color: rgba(0, 0, 0, 0.10);
+    text-align: center;
+}
+
+.card {
+    background-color: #fff;
+    padding-bottom: 20px;
+    margin: 0 auto 60px auto;
+}
+
+.img-our-portfolio {
+    width: 100%;
+}
+
+
+/* FOOTER */
+
+footer {
+    padding: 30px;
+}
+
+.copyright {
+    font-size: 16px;
+}
+
+.footer-column {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-icon {
+    font-size: 26px;
+    color: #fff;
+}
+
+.wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(54, 54, 54);
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    margin: 0 10px;
+}
+
+
+/*# sourceMappingURL=style.css.map */
