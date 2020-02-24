@@ -1,1 +1,1 @@
-https://maciej-krzyzowski.github.io/modul_3/
+https://maciej-krzyzowski.github.io/project-golden/
